@@ -1,7 +1,7 @@
 root: {
-  --about-paragraphs-color: black;
-  --contact-link: purple;
   --primary-color: pink;
+  --box-shadow: purple;
+  --secondary-color:blue;
 }
 .email-link {
    var (--contact-link);
