@@ -13,4 +13,5 @@
 p {
     display:block;
     background: var(--primary-color);
+    font-size: 18px;
 }
