@@ -12,4 +12,5 @@
 }
 p {
     display:block;
+    background: var(--primary-color);
 }
