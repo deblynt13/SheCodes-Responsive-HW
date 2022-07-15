@@ -3,3 +3,6 @@ root: {
   --contact-link: purple;
   --primary-color: pink;
 }
+.email-link {
+   var (--contact-link);
+}
