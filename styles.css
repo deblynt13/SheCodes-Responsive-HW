@@ -4,5 +4,5 @@ root: {
   --secondary-color:blue;
 }
 .email-link {
-   var (--contact-link);
+   var (--secondary-color);
 }
