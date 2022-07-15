@@ -1,7 +1,8 @@
 root: {
-    --about-paragraphs-color:black;
-    --contact-link:purple
-     
+  --about-paragraphs-color: black;
+  --contact-link: purple;
+}
 
-
+p {
+  float: left;
 }
