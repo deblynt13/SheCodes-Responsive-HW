@@ -1,8 +1,5 @@
 root: {
   --about-paragraphs-color: black;
   --contact-link: purple;
-}
-
-.about-paragraphs p {
-  float: left;
+  --primary-color: pink;
 }
