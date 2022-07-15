@@ -10,3 +10,6 @@ root: {
     margin: 10px;
 
 }
+p {
+    display:block;
+}
