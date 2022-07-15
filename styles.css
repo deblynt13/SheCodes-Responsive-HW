@@ -3,6 +3,6 @@ root: {
   --contact-link: purple;
 }
 
-p {
+.about-paragraphs p {
   float: left;
 }
