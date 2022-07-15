@@ -6,3 +6,7 @@ root: {
 .email-link {
    var (--secondary-color);
 }
+.about-paragraphs p {
+    margin: 10px;
+
+}
