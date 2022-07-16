@@ -1,20 +1,19 @@
 :root {
   --primary-color: pink;
   --box-shadow: purple;
-  --secondary-color:blue;
+  --secondary-color: blue;
 }
 .email-link {
-   var (--secondary-color);
+  color: var (--secondary-color);
 }
 .about-paragraphs p {
-    margin: 10px;
-
+  margin: 10px;
 }
 p {
-    display:block;
-    background: var(--primary-color);
-    font-size: 18px;
+  display: block;
+  background: var(--primary-color);
+  font-size: 18px;
 }
 body {
-    display:block;
+  display: block;
 }
