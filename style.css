@@ -12,7 +12,8 @@
   margin: 10px;
 }
 p {
-  display: block;
+  display: flex;
+  flex-direction: column;
   background: var(--primary-color);
   font-size: 18px;
 }
