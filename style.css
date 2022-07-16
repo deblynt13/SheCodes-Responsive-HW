@@ -5,6 +5,8 @@
 }
 .email-link {
   color: var (--secondary-color);
+  background-color: var (--secondary-color);
+  box-shadow: var(--box-shadow);
 }
 .about-paragraphs p {
   margin: 10px;
